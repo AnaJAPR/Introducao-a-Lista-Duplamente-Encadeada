@@ -10,4 +10,4 @@ Trata-se de uma atividade simples proposta na disciplina Estrutura de Dados do 3
 - função insertAfter
 - função deletebyValue
 - função searchbyValue
-- Driver code testando todas as funções
+- teste de todas as funções
